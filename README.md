@@ -14,3 +14,6 @@ O projeto consiste em um sistema de para monitorar/gerir habilidades do usuário
 ## Tecnologias
 - ReactJS
 - Styled-Components
+
+## API
+- [API - Kenzie Hub](https://github.com/leocarlos-dias/kenziehub-api)
