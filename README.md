@@ -10,6 +10,8 @@ O projeto consiste em um sistema de para monitorar/gerir habilidades do usuário
     -  Cadastrar tecnologia
     -  Modificar tecnologia cadastrada
     -  Excluir tecnologia cadastrada
+- Persistência de dados no local storage
+- Mudança de tema
 
 ## Tecnologias
 - ReactJS
