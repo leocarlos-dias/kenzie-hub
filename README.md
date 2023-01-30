@@ -1,27 +1,5 @@
 # Kenzie Hub - _Projeto Front-End_
 
-## Sobre
-Projeto desenvolvido na Kenzie Academy Brasil - Dezembro de 2022.
-O projeto consiste em um sistema de para monitorar/gerir habilidades do usuário em cada tecnologia.
-
-## Funcionalidades
-- Cadastrar usuário
-- Logar usuário
-    -  Cadastrar tecnologia
-    -  Modificar tecnologia cadastrada
-    -  Excluir tecnologia cadastrada
-- Persistência de dados no local storage
-- Mudança de tema
-
-## Tecnologias
-- ReactJS
-- Styled-Components
-
-## API
-- [API - Kenzie Hub](https://github.com/leocarlos-dias/kenziehub-api)
-
-# Kenzie Hub - _Projeto Front-End_
-
 ## Sobre o Kenzie Hub
 
 O Kenzie Hub é um projeto desenvolvido na Kenzie Academy Brasil em dezembro de 2022. Consiste em plataforma web para desenvolvedores gerirem os seus conhecimentos nas stacks atuais do mercado.
