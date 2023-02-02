@@ -32,4 +32,4 @@ Um projeto com intuito de gerir suas habilidades em programação
 
 ### Link
 - [Vercel - Kenzie Hub](https://kenzie-jga2txjix-leocarlos-dias.vercel.app/login)
-- [API - Kenzie Hub](https://github.com/leocarlos-dias/kenziehub-api)
+- [API - Kenzie Hub](https://github.com/Kenzie-Academy-Brasil-Developers/kenziehub-api)
